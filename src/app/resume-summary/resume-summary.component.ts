@@ -9,6 +9,7 @@ import { RESUMESUBJECT } from '../resume-subject';
 export class ResumeSummaryComponent implements OnInit {
 
   subject = RESUMESUBJECT;
+  panelOpenState = false;
 
   constructor() { }
 

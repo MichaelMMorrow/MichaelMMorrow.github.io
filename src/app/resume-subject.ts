@@ -4,59 +4,68 @@ export const RESUMESUBJECT: Subject = {
     name: 'Mitchell Morrow',
     title: 'Developer',
     summary: {
-        headline: '3+ years professional experience in full stack web application design and development, including:',
+        headline: '3+ years professional experience in application design and development, including:',
         points: [
             {
-                summary: 'Application code/UI design and implementation',
-                detail: 'example detail'
+                summary: 'Application design',
+                detail: 'Designed several applications from initial wireframes to final design in collaboration with project \
+                architects and database administrators, as well as a solo developer.'
             },
             {
-                summary: 'API design and implementation',
-                detail: 'example detail'
+                summary: 'Application development',
+                detail: 'Developed several web applications as part of a team, as well as a solo developer. From proof of \
+                concept to final delivery and warranty, I’ve played key roles in all aspects of the application development lifecycle.'
+            },
+            {
+                summary: 'Microservice development and consumption',
+                detail: 'Developed and integrated with various microservices across multiple systems, internal and external, using \
+                a variety of data formats certification protocols.'
             },
             {
                 summary: 'Database management and scripting',
-                detail: 'example detail'
+                detail: 'Collaborated in the design and implementation of several databases to support new applications, as well \
+                as improved and built upon existing tables and procedures. Writing challenging queries, stored procedures and working \
+                with large, complex databases are tasks that I am very familiar with.'
             },
             {
                 summary: 'Issue tracking and remediation',
-                detail: 'example detail'
+                detail: 'Worked with testing teams throughout multiple applications and phases, using various issue tracking \
+                applications, adhering to issue priority and remediation timelines.'
             },
             {
                 summary: 'Repository management',
-                detail: 'example detail'
+                detail: 'Managed and collaborated in several code repositories, maintaining members and code branches across \
+                multiple development teams.'
             },
             {
                 summary: 'Release deployment',
-                detail: 'example detail'
+                detail: 'Maintained releases, versioning, documentation and deployment throughout the sdlc of several projects, \
+                deploying to multiple environments, using a variety of methods.'
             },
             {
                 summary: 'Product delivery and warranty',
-                detail: 'example detail'
+                detail: 'Delivered multiple products through incremental, agile sprints, as well as through more traditional \
+                waterfall style approaches.'
             },
             {
                 summary: 'Writing and maintaining accurate and useful documentation',
-                detail: 'example detail'
+                detail: 'Wrote and maintained multiple documents throughout development, including design documents, specifications, \
+                guides and stories.'
             },
             {
                 summary: 'Collaborating with various teams within an agile environment',
-                detail: 'example detail'
-            },
-            {
-                summary: 'Managing multiple projects simultaneously',
-                detail: 'example detail'
+                detail: 'Collaborated with many different teams and departments, employing agile methodologies through sprints, \
+                scrums, stand-ups across multiple organizations and varying time zones. '
             },
             {
                 summary: 'Working with clients/stakeholders to translate functional/non-functional requirements into proof of concept and design',
-                detail: 'example detail'
-            },
-            {
-                summary: 'Balancing business needs with client expectations',
-                detail: 'example detail'
+                detail: 'Reviewed business requirements collaboratively with clients and associates, translating them into proof of concept \
+                while iteratively discussing and adjusting the design to realise the required product.'
             },
             {
                 summary: ' Presenting to clients and assessing feedback',
-                detail: 'example detail'
+                detail: 'Presented various applications to clients, demonstrating functionality and ‘typical use’ workflows, answering \
+                live questions, listening to and assessing client feedback. Presenting applications also serves as a proven method of finding bugs.'
             }
         ]
     },
